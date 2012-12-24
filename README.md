@@ -1,4 +1,5 @@
-# ZeroMQ via C#
+ZeroMQ via C#
+=============
 *[Author: Manar Ezzadeen][Manar-Site]*
 
 
@@ -6,9 +7,9 @@
 Projects of "ZeroMQ via C#" articles:
 
 
-[ZeroMQ via C#: Introduction][zmq-cs-intro]
+1- [ZeroMQ via C#: Introduction][zmq-cs-intro]
 
-ZeroMQ via C#: Multi-part messages, JSON and Synchronized PUB-SUB pattern
+2- ZeroMQ via C#: Multi-part messages, JSON and Synchronized PUB-SUB pattern
 
 
 
